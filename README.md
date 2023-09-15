@@ -1,10 +1,7 @@
+[Fonte]
 ![Twitter Follow](https://img.shields.io/twitter/follow/marcogovoni?style=social)
 
-# Come (e perché!) usare GitHub anche se non sei un programmatore.
-Nuovo su GitHub? Anche io :wink:
-Bene, ecco perché questo social network può essere una svolta (per lo meno per me lo è!).
-
-PS: i *puristi* di GitHub o comunque chi lo usa per professione, proabilmente innoridiranno: chiedo loro scusa anticipatamente per le imprecisioni e le semplificazioni, ma l'obiettivo è quello di spiegarlo ai "non addetti ai lavori". E comunque, per le modifiche, sono ben accette *Issue* e *Pull request* :simple_smile:
+# Come (e perché!) usare GitHub.
 
 ## Cos'è GitHub?
 E' un Social Network. Come Facebook. Instagram. LinkedIn. Tik Tok. E come tutti i social network che si rispettano ha una sua caratteristica distintiva. GitHub si basa sul *controllo di versione*. Che roba è?
